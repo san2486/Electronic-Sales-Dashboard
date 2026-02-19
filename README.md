@@ -45,9 +45,7 @@ The goal is to track revenue trends, customer segmentation, and product performa
 - dashboard_screenshot.png
 - dataset.csv[kaggle]
 
-## 📸 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
 ---
 
 📊 Power BI Dashboard
